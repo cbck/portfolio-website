@@ -1,12 +1,12 @@
 ######################################
 ## Site settings                    ##
 ######################################
-title:       Junior Theme
-email:       jonathon.bel.melbourne@gmail.com
-author:      Jonathon Belotti
-description: "A striking black-white Jekyll theme."
+title:       Portfolio Tests
+email:       info@chris-beck.com
+author:      Chris Beck
+description: "A minimal portfolio site"
 baseurl:     ""
-url:         "https://juniortheme.live/"
+url:         "https://cbck.github.io/portfolio-website/"
 date_format: "%b %-d, %Y"
 
 # Google services
