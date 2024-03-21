@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      What's A Data Engineer?
-date:       2016-11-14
-summary:    Let's break into some of the best answers I could find online.
-categories: data-engineering career
+title:      Code Examples
+date:       2024-03-21
+summary:    TBD
+categories: experiment
 ---
 
 I'm about to start as a *Date Engineering Intern* working with Zendesk's Data Engineering (DE) and Data Science (DS) teams. So I'll be learning to be a *Data Engineer*, while not knowing in detail what it means to *be one*. This post should fix that.
